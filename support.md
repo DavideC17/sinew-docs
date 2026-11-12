@@ -11,7 +11,6 @@ nav_order: 12
 
 ## Contact support
 
-<!-- SUPPORT FORM: replace this note with the form embed or link. -->
 {: .note }
 The support contact form will be available here soon.
 
