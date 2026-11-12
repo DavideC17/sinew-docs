@@ -42,7 +42,9 @@ The cards follow the [Product cards](theme-settings.md#product-cards) theme sett
 
 ### Filters
 
-Filters are managed in the free **Shopify Search & Discovery** app, under **Filters**. You can filter by availability, price, product type, vendor, tags, variant options such as color and size, and metafields.
+Filters are managed in the free **Shopify Search & Discovery** app, under **Filters**. You can filter by availability, price, product type, vendor, tags, variant options such as color and size, and metafields. For example, to add a size filter: in your Shopify admin, open **Apps > Search & Discovery > Filters**, choose **Add filter**, select your size option and save.
+
+Filters with many values, such as sizes, show their first 8 values and a **Show more** button.
 
 Color filters show swatches when your color option uses the Color category metafield. See [Color swatches](product-page.md#color-swatches).
 
