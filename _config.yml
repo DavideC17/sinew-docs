@@ -1,0 +1,44 @@
+title: Sinew documentation
+description: How to set up and customize Sinew, a Shopify theme for activewear and training brands.
+lang: en
+
+url: https://davidec17.github.io
+baseurl: /sinew-docs
+
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 2
+heading_anchors: true
+back_to_top: true
+back_to_top_text: Back to top
+
+aux_links:
+  Contact support:
+    - https://davidec17.github.io/sinew-docs/support/
+aux_links_new_tab: false
+
+footer_content: Sinew is a Shopify theme by Davide Curto.
+
+callouts:
+  warning:
+    title: Before you start
+    color: red
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: green
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
