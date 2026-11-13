@@ -79,9 +79,11 @@ A signup dialog that opens once per visitor, after a delay. Add it from the **Fo
 
 The popup never opens over another open dialog, such as the cart drawer. In the theme editor it opens only when you select the section, so it doesn't get in the way while you edit other sections.
 
+Visitors who sign up, in the popup or in any other newsletter form of your store, don't see the popup again in that browser. Logged-in customers who already accept marketing emails never see it.
+
 ### Offering a discount for signing up
 
-1. In your Shopify admin, go to **Discounts > Create discount > Amount off order**. Enter a code, for example `WELCOME10`, set the amount, and limit it to one use per customer.
+1. In your Shopify admin, go to **Discounts > Create discount > Amount off order**. Enter a code, for example `WELCOME10`, and set the amount. Under **Maximum discount uses**, choose **Limit to one use per customer**: Shopify then refuses the code at checkout to a customer who has already used it. To keep it for first orders, set **Eligibility** to a customer segment of customers without orders.
 2. In the theme editor, select the **Newsletter popup** section, turn on **Show a discount code after signup**, and enter the same code and your message.
 
 The theme shows the code; the discount itself is applied by Shopify at checkout, so the code must exist in **Discounts**. To also send the code by email, set up a welcome email for new subscribers in the **Shopify Email** app.
