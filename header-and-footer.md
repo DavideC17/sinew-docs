@@ -69,8 +69,19 @@ A signup dialog that opens once per visitor, after a delay. Add it from the **Fo
 
 | Setting | What it does |
 | --- | --- |
+| Enable popup | Turn it off to stop showing the popup to visitors without deleting it. In the theme editor it still opens when you select the section, so you can edit it. |
 | Image, Subheading, Heading, Text, Button label | The content of the popup. |
+| Show a discount code after signup | After signing up, visitors see your message and the code, with a **Copy code** button. |
+| Discount code | The code to show, for example `WELCOME10`. |
+| Message after signup | Shown above the code, for example "Use this code at checkout for 10% off your first order." |
 | Delay | 3 to 60 seconds after the page loads. |
 | Show again after | 1 to 90 days: how long the popup stays hidden after a visitor closes it. |
 
 The popup never opens over another open dialog, such as the cart drawer. In the theme editor it opens only when you select the section, so it doesn't get in the way while you edit other sections.
+
+### Offering a discount for signing up
+
+1. In your Shopify admin, go to **Discounts > Create discount > Amount off order**. Enter a code, for example `WELCOME10`, set the amount, and limit it to one use per customer.
+2. In the theme editor, select the **Newsletter popup** section, turn on **Show a discount code after signup**, and enter the same code and your message.
+
+The theme shows the code; the discount itself is applied by Shopify at checkout, so the code must exist in **Discounts**. To also send the code by email, set up a welcome email for new subscribers in the **Shopify Email** app.
