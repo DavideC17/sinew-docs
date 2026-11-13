@@ -48,7 +48,7 @@ One product with its photos, price, options and add to cart button, anywhere in 
 
 ## Product in 3D
 
-A product's 3D model, which visitors can turn and zoom, next to a heading, text and button.
+A product's 3D model, which visitors can turn and zoom, next to a heading, text and button. Visitors turn the model by dragging it sideways, or with the round arrow buttons on each side, which turn it a quarter of the way at a time. On phones, the buttons are the easiest way to turn it.
 
 | Setting | What it does |
 | --- | --- |
