@@ -11,10 +11,20 @@ nav_order: 12
 
 ## Contact support
 
-{: .note }
-The support contact form will be available here soon.
+Fill in the form below, or [open the support form in a new page](https://form.jotform.com/263165691755366){: target="_blank" rel="noopener" }. Include your store URL and, if you can, a screenshot of the problem.
 
 You get an automatic confirmation by email when your request is received, and a reply within **two business days**.
+
+<iframe
+  id="JotFormIFrame-263165691755366"
+  title="Sinew theme support form"
+  src="https://form.jotform.com/263165691755366"
+  loading="lazy"
+  style="width: 100%; min-width: 100%; height: 1100px; border: 0;"
+  allow="geolocation; microphone; camera; fullscreen"
+></iframe>
+<script src="https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js"></script>
+<script>window.jotformEmbedHandler && window.jotformEmbedHandler("iframe[id='JotFormIFrame-263165691755366']", "https://form.jotform.com/");</script>
 
 ## Before you contact us
 
