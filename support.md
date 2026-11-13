@@ -1,6 +1,7 @@
 ---
 title: Support
 nav_order: 12
+permalink: /support/
 ---
 
 # Support
